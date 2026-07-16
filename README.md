@@ -55,7 +55,7 @@ The pipeline provisions infrastructure, integrates security tools, and automates
 ## ⚙️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pratyush-Choudhury/DevOps-Project.git
+   git clone https://github.com/Pratyush-Choudhury/DevSecOps-Pipeline.git
 2. Navigate into the project:
 cd devops-pipeline
 
@@ -72,9 +72,3 @@ terraform apply
    -Security scans (tfsec, Trivy)
 
    -Deployment using Sealed Secrets and Kubernetes.
-
-🖊️ Author
-
-Pratyush Choudhury
-
-GitHub Profile
